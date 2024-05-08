@@ -1,8 +1,5 @@
 <div align="center">
-<picture>
-  <source  srcset="https://raw.githubusercontent.com/Leorrc/website-psi-maria/master/images/preview-1.png">
-  <img alt="Imagem preview" src="https://raw.githubusercontent.com/Leorrc/website-psi-maria/master/preview-1.png">
-</picture>
+<img alt="Imagem preview" src="https://raw.githubusercontent.com/Leorrc/website-psi-maria/master/images/preview-1.png">
 </div>
 
 <div align="center"><strong>Projeto feito com Next.js 14</strong></div>
